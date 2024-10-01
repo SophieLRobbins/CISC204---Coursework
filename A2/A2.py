@@ -1,12 +1,9 @@
 
-# This is your unique solution file
-
 from config import *
 from lib204 import semantic_interface
 
 # Assignment for 21SLR15
 
-# Note: All of these answers are almost certainly wrong
 
 a2q12 = [ [s1], [s2, s3], [s4] ]
 
